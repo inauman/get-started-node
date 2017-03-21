@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: hfnode
    random-route: true
    memory: 256M
